@@ -22,39 +22,31 @@
 
 ## 🙋‍♂️ About Me
 
-```typescript
-interface Developer {
-  name        : string;
-  role        : string;
-  company     : string;
-  location    : string;
-  expertise   : string[];
-  databases   : string[];
-  currentFocus: string;
-  approach    : string;
-  funFact     : string;
-}
+I'm **Javed Khan Abbasi**, a passionate **Full Stack Web Developer** based in **Bahawalpur, Punjab, Pakistan**, currently working at **Digital Vikingz**. I specialize in building modern, scalable, and high-performance web applications — from sleek frontends to powerful backends.
 
-const javedKhanAbbasi: Developer = {
-  name     : "Javed Khan Abbasi",
-  role     : "Full Stack Web Developer",
-  company  : "Digital Vikingz",
-  location : "Bahawalpur, Punjab, Pakistan",
+My core expertise includes **React.js & Next.js** for dynamic interfaces, **PHP & Laravel** for robust backend systems, **WordPress Theme & Plugin Development**, **Shopify Store Development**, and **REST API** integration. I work with **MySQL** and **MongoDB** for database solutions.
 
-  expertise: [
-    "React.js & Next.js Applications",
-    "PHP & Laravel Backend Systems",
-    "WordPress Theme & Plugin Development",
-    "Shopify Store Development",
-    "REST API Development",
-  ],
+> 💡 *"Clean Code → Scalable Architecture → Happy Clients 🚀"*
 
-  databases   : ["MySQL", "MongoDB"],
-  currentFocus: "Building High-Performance Digital Solutions",
-  approach    : "Clean Code → Scalable Architecture → Happy Clients 🚀",
-  funFact     : "I turn ideas into powerful web experiences ⚡",
-};
-```
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=javedkhanabbasi&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FFD700&line=FFD700&point=FF6B6B" width="100%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=javedkhanabbasi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=ffffff" height="180"/>
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=javedkhanabbasi&theme=tokyonight" height="180"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=javedkhanabbasi&theme=tokyonight&hide_border=true&background=0D1117&ring=FFD700&fire=FF6B6B&currStreakLabel=FFD700" height="180"/>
+
+</div>
 
 ---
 
@@ -92,18 +84,6 @@ const javedKhanAbbasi: Developer = {
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=javedkhanabbasi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=ffffff" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=javedkhanabbasi&theme=tokyonight&hide_border=true&background=0D1117&ring=FFD700&fire=FF6B6B&currStreakLabel=FFD700" height="180"/>
 
 </div>
 
